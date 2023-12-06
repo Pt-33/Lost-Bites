@@ -1,0 +1,26 @@
+.Add {
+    text-align: center;
+    
+  }
+  
+ 
+  
+  
+  
+  .Add-header {
+    background-color: #8a798a;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+    font-size: calc(15px + 2vmin);
+    font-weight: bold;
+    color: black;
+  }
+ 
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+ 
+  

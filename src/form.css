@@ -1,0 +1,50 @@
+
+/* MyForm.css */
+.form {
+    text-align: center;
+    padding: 60px;
+    border: 5px solid black;
+    border-radius: 50px;
+    background-color: #765276;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    margin:20px auto;
+    width:50%;
+    height:50%;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  textarea{
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin:10px;
+  }
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"] {
+    
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin:10px;
+  }
+  
+  button {
+    color: black;
+  font-size: 18px;
+  font-weight:bold ;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 10px; 
+  background-color:  hsl(300, 20%, 68%);
+  color: black;  border:none;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  margin:10px;
+  }
+  
+ 
+  

@@ -1,0 +1,44 @@
+.View {
+    text-align: center;
+  }
+  .out{
+    background-color: #765276;
+    width:25%;
+    text-align:center;
+    display:inline-block;
+    margin:5px;
+    border:5px solid black;
+    border-radius:40px;
+  }
+  .key{
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    background-color: #623362;
+  }
+  .ans{
+   
+    border-top:5px solid black;
+    
+  }
+  
+  
+  
+  .View-header {
+    background-color: #8a798a;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(15px + 2vmin);
+    font-weight: bold;
+    color: black;
+  }
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+ 
+  
+  
+  
